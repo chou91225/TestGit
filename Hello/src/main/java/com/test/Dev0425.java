@@ -12,4 +12,6 @@ public class Dev0425 {
 
     //dev0425_001 idea
 
+    //dev0425_002 idea
+
 }
